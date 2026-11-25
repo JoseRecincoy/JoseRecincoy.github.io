@@ -2,7 +2,7 @@
 
 Portafolio estático de un desarrollador de software junior. Presenta la formación profesional y los proyectos académicos SIGV y SAIF. Está hecho con HTML5, CSS3 y JavaScript y se puede abrir directamente en un navegador.
 
-Dirección de GitHub Pages prevista: [joserecincoy.github.io](https://joserecincoy.github.io/).
+Dirección de GitHub Pages: [joserecincoy.github.io](https://joserecincoy.github.io/).
 
 - **SIGV (2026).** Sistema Integral de Gestión de Vidriería. Proyecto académico individual desarrollado e implementado para Vidriería Gaitán. Su repositorio es privado.
 - **SAIF (2025).** Sistema de Administración de Inventario de Farmacia. Proyecto académico colaborativo de cinco integrantes, con liderazgo técnico de desarrollo. [Repositorio del equipo](https://github.com/PabloChun-16/SaludAhorro)
