@@ -1,0 +1,31 @@
+# Originales de trabajo. El sitio solo incorpora las copias de assets/capturas/.
+/assets/sigv/
+/assets/saif/
+
+# Comparativas locales de la revisión visual.
+/revision-fase-3.5/
+
+# Configuración local, credenciales y respaldos.
+.env
+.env.*
+.netrc
+.npmrc
+.aws/
+.ssh/
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.bak
+*.dump
+*.tmp
+*.log
+*.zip
+*.7z
+*.tar.gz
+Thumbs.db
+.DS_Store
